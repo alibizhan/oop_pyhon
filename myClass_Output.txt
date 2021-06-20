@@ -1,0 +1,6 @@
+Persian is a Cat
+Bengal is a Cat
+Birman is a Cat
+Persian is 20 years old
+Bengal is 16 years old
+Birman is 15 years old

@@ -1,0 +1,2 @@
+Parrot can fly
+Penguin can't fly
